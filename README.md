@@ -13,6 +13,6 @@ Using SQL queries, I analyzed:
 - Credit Card was the most used payment method.  
 - Revenue showed steady growth in early 2025.  
 
-🔗 Full project with SQL code here: https://github.com/ramya-ishu/SQL_PROJECTS.git
+🔗 Full project with SQL code here: https://github.com/ramya-ishu/E-Commerce_Sales_SQL.git
 
 #SQL #DataAnalytics #Ecommerce #Database
